@@ -1,1 +1,1 @@
-export const Example = () => `This is an example.`;
+export const Example = (): string => `This is an example.`;
