@@ -16,6 +16,9 @@
   "author": "Térence BARBE <terencebarbe@plop.fr>",
   "license": "ISC",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint": "^7.6.0",
     "prettier": "^2.0.5",
     "typescript": "^3.9.7"
   }
