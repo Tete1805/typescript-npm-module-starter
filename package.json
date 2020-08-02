@@ -1,6 +1,6 @@
 {
   "name": "typescript-npm-module-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Starter pack for building a npm module in Typescript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
