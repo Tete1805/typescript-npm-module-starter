@@ -1,7 +1,7 @@
 {
-  "name": "@tete1805/typescript-npm-module-starter",
-  "version": "1.0.3",
-  "description": "Starter pack for building a npm module in Typescript",
+  "name": "@tete1805/typescript-package-starter",
+  "version": "1.0.4",
+  "description": "Starter pack for building an (npm) package in Typescript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
